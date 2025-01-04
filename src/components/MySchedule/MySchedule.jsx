@@ -23,7 +23,6 @@ const MySchedule = () => {
             >
               <CheckIcon className='w-4 h-4 text-white' />
             </span>
-            {/* Event Title */}
             <span className='text-gray-700'>{event.title}</span>
           </li>
         ))}

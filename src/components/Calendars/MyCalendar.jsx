@@ -25,9 +25,9 @@ const MyCalendar = () => {
 
     const parsedEvents = myEvents.map((event, index) => ({
       ...event,
-      start: new Date(event.start), // Parse the start time
-      end: new Date(event.end), // Parse the end time
-      color: colors[index % colors.length] // Assign soft colors cyclically
+      start: new Date(event.start),
+      end: new Date(event.end),
+      color: colors[index % colors.length]
     }))
 
     setEvents(parsedEvents)
