@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Exciting",
+      "description": "A dynamic and energetic session.",
+      "time": "10:00 AM",
+      "image": "https://picsum.photos/id/1018/200/300"
+    },
+    {
+      "title": "Interactive",
+      "description": "A hands-on interactive workshop.",
+      "time": "12:00 PM",
+      "image": "https://picsum.photos/id/1027/200/300"
+    },
+    {
+      "title": "Guest",
+      "description": "Inspiring guest speakers.",
+      "time": "3:00 PM",
+      "image": "https://picsum.photos/id/1031/200/300"
+    },
+    {
+      "title": "Networking",
+      "description": "Professional networking opportunities.",
+      "time": "5:00 PM",
+      "image": "https://picsum.photos/id/1040/200/300"
+    },
+    {
+      "title": "Celebration",
+      "description": "A grand celebration.",
+      "time": "6:30 PM",
+      "image": "https://picsum.photos/id/1050/200/300"
+    }
+  ]
+  
